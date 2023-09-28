@@ -1,4 +1,4 @@
-# Data Structures in C Programs
+# Data Structures in C Practical(Programs)
 This repository contains a collection of C programs that demonstrate various data structures and algorithms.
 
 ## List of C Programs
